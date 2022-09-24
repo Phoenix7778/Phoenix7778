@@ -18,4 +18,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phoenix7778&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenix7778&show_icons=true&locale=en&layout=compact" alt="phoenix7778" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix7778&layout=compact&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
