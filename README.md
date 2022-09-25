@@ -1,4 +1,4 @@
-[![MasterHead](https://c.tenor.com/Gfm1uaH_0-cAAAAd/code-its-fun-its-fun.gif)](https://phoenix7778.io)
+[![MasterHead](https://thumbs.gfycat.com/DefiniteImmenseHalicore-size_restricted.gif)](https://phoenix7778.io)
 
 <h1 align="center">Hi 👋, I'm Margaryta Myagkova</h1>
 <h3 align="center">Future full stack developer</h3>
