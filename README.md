@@ -40,5 +40,8 @@
   </a> 
 </p>
 
+<h2 align="left">GitHub Stats:</h2>
+<p align="left">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=phoenix7778&count_private=true&show_icons=true&theme=algolia" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix7778&layout=compact&count_private=true&show_icons=true&theme=algolia" />
+</p>
