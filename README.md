@@ -8,7 +8,7 @@
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="mailto:margaryta.myagkova@gmail.com" target="_blank rel="noopener noreferrer nofollow">
+<a href="mailto:margaryta.myagkova@gmail.com" target="_blank" rel="noopener noreferrer nofollow">
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="35" width="35" />
 </a>
 
