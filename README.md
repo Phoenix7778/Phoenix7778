@@ -9,11 +9,11 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="mailto:margaryta.myagkova@gmail.com" target="top">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="35" width="35" />
+<img src="./gmail.svg" alt="email" height="35" width="35" />
 </a>
 
 <a href="https://linkedin.com" target="blank" rel="noopener noreferrer nofollow">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="35" width="30" />
+<img src="linkedin.svg" alt="linkedin" height="35" width="35" />
 </a>
 </p>
 
