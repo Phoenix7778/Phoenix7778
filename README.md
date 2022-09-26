@@ -3,11 +3,9 @@
 <h1 align="center">Hi 👋, I'm Margaryta Myagkova</h1>
 <h2 align="center">Future full stack developer</h2>
 
- 🔭 I’m currently working on **learning projects**
-
- 🌱 I’m currently learning **HTML & CSS**
-
- 📫 How to reach me: **margaryta.myagkova@gmail.com**
+- 🔭 I’m currently working on **self-development and personal growth**
+- 🌱 I’m currently learning **HTML & CSS**
+- 📫 How to reach me: **margaryta.myagkova@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
