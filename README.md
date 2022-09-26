@@ -3,36 +3,32 @@
 <h1 align="center">Hi 👋, I'm Margaryta Myagkova</h1>
 <h2 align="center">Future full stack developer</h2>
 
-- 🔭 I’m currently working on **learning projects**
+ 🔭 I’m currently working on **learning projects**
 
-- 🌱 I’m currently learning **HTML & CSS**
+ 🌱 I’m currently learning **HTML & CSS**
 
-- 📫 How to reach me: **margaryta.myagkova@gmail.com**
-
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-</p>
+ 📫 How to reach me: **margaryta.myagkova@gmail.com**
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
   </a> 
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
   </a> 
  
   <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer nofollow"> 
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
   </a> 
   
   <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow"> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
   </a> 
   
   <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio code" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio code" width="35" height="35"/> 
   </a> 
 </p>
 
