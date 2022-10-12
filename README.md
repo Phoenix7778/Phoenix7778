@@ -7,7 +7,7 @@
 - :books: I’m currently learning **HTML & CSS**
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
+<div align="left">
 <a href="mailto:margaryta.myagkova@gmail.com" target="top">
 <img src="./svg/gmail.svg" alt="email" height="35" width="35" />
 </a>
@@ -15,14 +15,14 @@
 <a href="https://linkedin.com" target="blank" rel="noopener noreferrer nofollow">
 <img src="./svg/linkedin.svg" alt="linkedin" height="35" width="35" />
 </a>
-</p>
+</div>
 
 <h2 align="left">Languages and Tools:</h2>
-<p align="left"> 
+<div align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
   </a> 
-  
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
   </a> 
@@ -50,22 +50,22 @@
   <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
   </a> 
-  
+ 
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   </a> 
-  
+ 
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a>
-  
+   
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
-</p>
+</div>
 
 <h2 align="left">GitHub Stats:</h2>
-<p align="left">
+<div align="left">
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=phoenix7778&count_private=true&show_icons=true&theme=algolia" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix7778&layout=compact&count_private=true&show_icons=true&theme=algolia" />
-</p>
+</div>
