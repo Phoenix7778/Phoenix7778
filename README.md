@@ -27,40 +27,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> 
   </a> 
   &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
-    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio code" width="35" height="35"/> 
+  <a href="https://sass-lang.com/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="35" height="35"/> 
   </a> 
   &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow"> 
+    <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> 
   </a> 
   &nbsp;
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
- &nbsp;
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer nofollow"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="35" height="35"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  </a> 
-  &nbsp;
-  <a href="https://www.invisionapp.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40" height="40"/> 
-  </a> 
- &nbsp;
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a> 
- &nbsp;
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>
-   &nbsp;
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="visualstudio code" width="35" height="35"/> 
   </a> 
 </div>
 
