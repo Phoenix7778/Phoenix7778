@@ -4,7 +4,7 @@
 <h2 align="center">Future full stack developer</h2>
 
 - :gear: I’m currently working on **self-development and personal growth**
-- :books: I’m currently learning **HTML & CSS**
+- :books: I’m currently learning **JavaScript**
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
@@ -19,6 +19,10 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="35" height="35"/> 
+  </a> 
+&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> 
   </a> 
