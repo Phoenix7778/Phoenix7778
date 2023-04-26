@@ -12,13 +12,17 @@
 <img src="./svg/gmail.svg" alt="email" height="35" width="35" />
 </a>
 &nbsp;
-<a href="https://linkedin.com" target="blank" rel="noopener noreferrer nofollow">
+<a href="https://www.linkedin.com/in/margaryta-myagkova/" target="blank" rel="noopener noreferrer nofollow">
 <img src="./svg/linkedin.svg" alt="linkedin" height="35" width="35" />
 </a>
 </div>
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left"> 
+  <a href="https://legacy.reactjs.org" target="_blank" rel="noopener noreferrer nofollow"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="35" height="35"/> 
+  </a> 
+&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript" width="35" height="35"/> 
   </a> 
