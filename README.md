@@ -21,7 +21,7 @@
 <div align="left"> 
   <a href="https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer nofollow"> 
 
-   <img src="https://www.flaticon.com/free-icon/" alt="node.js" width="35" height="35"/> 
+   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node.js" width="35" height="35"/> 
 
   </a> 
   <a href="https://legacy.reactjs.org" target="_blank" rel="noopener noreferrer nofollow"> 
