@@ -4,7 +4,7 @@
 <h2 align="center">Future Full-Stack Developer</h2>
 
 - :gear: I’m currently working on **self-development and personal growth**
-- :books: I’m currently learning **React**
+- :books: I’m currently learning **Node.js**
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
@@ -19,6 +19,11 @@
 
 <h2 align="left">Languages and Tools:</h2>
 <div align="left"> 
+  <a href="https://nodejs.org/en/about" target="_blank" rel="noopener noreferrer nofollow"> 
+
+   <img src="https://www.flaticon.com/free-icon/node-js_5968322" alt="node.js" width="35" height="35"/> 
+
+  </a> 
   <a href="https://legacy.reactjs.org" target="_blank" rel="noopener noreferrer nofollow"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="35" height="35"/> 
   </a> 
