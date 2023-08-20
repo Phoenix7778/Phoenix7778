@@ -1,10 +1,10 @@
 <img align="center" width="1000px" height="300px" src="https://thumbs.gfycat.com/DefiniteImmenseHalicore-size_restricted.gif" />
 
 <h1 align="center">Hi 👋, I'm Margaryta Myagkova</h1>
-<h2 align="center">Future Full-Stack Developer</h2>
+<h2 align="center">Full Stack Developer</h2>
 
 - :gear: I’m currently working on **self-development and personal growth**
-- :books: I’m currently learning **Node.js**
+- :books: I’m currently learning **TypeScript**
 
 <h2 align="left">Connect with me:</h2>
 <div align="left">
